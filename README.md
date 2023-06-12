@@ -8,8 +8,9 @@ This project, using the definition of a MAS, refers to an hypothetical situation
  
 --------
 ## Directory Info
-This is the directory of th Multi Agent System's project. The main directory "MASProject" contains all the files needed for making work the project:
+This is the directory of th Multi Agent System's project. The main directory contains all the files needed for making work the project:
 - the three java files, used to create the graphical environment.
+- the domesticHealthAssistant.mas2j main file needed to start the simulation.
 - the six asl files, containing the Jason code of each agent. More precisely they are situated inside src/asl/ directory.
 
 ## Basic Instructions
