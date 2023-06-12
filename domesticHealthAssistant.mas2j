@@ -1,0 +1,14 @@
+
+
+MAS domestic_health_assistant {
+
+	environment: Room(on) // use "off" as parameter to not show the user interface
+	agents: robotNurse1;
+			robotNurse2;
+			robotEmergency;
+			paymentManager;
+			patient;
+			ambulance;
+		aslSourcePath:
+					"src/asl";
+}
