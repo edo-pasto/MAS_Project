@@ -1,4 +1,4 @@
-# Domestic Health Assistant
+# Domestic Health Assistance
 ## Multi Agent System's project, A.Y. 2022/2023
 #### Edoardo Pastorino, 5169595
 
